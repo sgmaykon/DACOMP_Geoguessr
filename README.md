@@ -6,6 +6,13 @@ jogador vê a foto de um local dentro da UFSCar São Carlos e precisa marcar no 
 onde acha que ela foi tirada. Quanto mais próximo e rápido o palpite, mais pontos —
 e o host acompanha tudo em tempo real.
 
+## Autor(es)
+
+| Autor                   | Curso                   | GitHub                                    |
+| ----------------------- | ----------------------- | ----------------------------------------- |
+| Maykon dos Santos Gonçalves | Engenharia de Computação | [sgmaykon](https://github.com/sgmaykon) |
+| Gustavo Amadeu          | Ciência da Computação    | [Gustag16](https://github.com/Gustag16) |
+
 ## Tech Stack
 
 | Camada            | Tecnologia                                                          |
