@@ -11,7 +11,7 @@ e o host acompanha tudo em tempo real.
 | Autor                   | Curso                   | GitHub                                    |
 | ----------------------- | ----------------------- | ----------------------------------------- |
 | Maykon dos Santos Gonçalves | Engenharia de Computação | [sgmaykon](https://github.com/sgmaykon) |
-| Gustavo Amadeu          | Ciência da Computação    | [Gustag16](https://github.com/Gustag16) |
+| Gustavo Amadeu Mancuzo de Sylos | Ciência da Computação | [Gustag16](https://github.com/Gustag16) |
 
 ## Tech Stack
 
